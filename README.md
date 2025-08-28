@@ -1,10 +1,7 @@
-hi im aldo
-i fw frank ocean heavy than yall
-
-# 👋 Hi, I'm Aldo  
+# 👋 Hi Hi, I'm Aldo  
 
 💻 Junior Frontend Developer | 🚀 Passionate about Web Development  
-
+btw i fw frank ocean heavy than yall
 ---
 
 ## 🛠️ Tech Stack

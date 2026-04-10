@@ -1,7 +1,7 @@
 i do code btw
 
 <a href="https://monkeytype.com/profile/08horses">
-  <img src="https://raw.githubusercontent.com/aldoaldoaldonya2/aldoaldoaldonya2/output/08horses-monkeytype-readme.svg" alt="My Monkeytype profile" />
+  <img src="https://raw.githubusercontent.com/aldoaldoaldonya2/aldoaldoaldonya2/output/08horses-monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
 </a>
 
 
